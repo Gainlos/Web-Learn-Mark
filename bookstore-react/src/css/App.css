@@ -26,6 +26,8 @@
 
 .App-link {
   color: #61dafb;
+  font-family: "Times New Roman" ;
+  word-spacing: 10px;
 }
 
 @keyframes App-logo-spin {
