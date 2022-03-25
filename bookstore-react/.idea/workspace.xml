@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b5a4948-5214-429a-af97-74315251fe91" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/html+css/css/personalcenter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/css/shoppingcenter.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html+css/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html+css/javascript/loginpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/js/loginpage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html+css/loginpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/loginpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html+css/personalcenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/personalcenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/loginpagepink.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/loginpagepink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/shoppingcenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/shoppingcenter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,8 @@
       <workItem from="1647962492489" duration="1458000" />
       <workItem from="1648089489926" duration="12713000" />
       <workItem from="1648185433826" duration="4785000" />
-      <workItem from="1648190981094" duration="10681000" />
+      <workItem from="1648190981094" duration="10791000" />
+      <workItem from="1648217349677" duration="5445000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1647876192028</created>
