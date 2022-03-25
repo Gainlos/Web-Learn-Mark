@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b5a4948-5214-429a-af97-74315251fe91" name="变更" comment="homepage solve">
+    <list default="true" id="9b5a4948-5214-429a-af97-74315251fe91" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/html+css/css/loginpagepink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/javascript/loginpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html+css/loginpagepink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html+css/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/css/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/css/loginpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/css/loginpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html+css/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/loginpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/loginpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,11 +67,11 @@
       <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\src\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\html+css\img" />
       <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\html+css\css" />
       <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\html+css" />
       <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\src" />
       <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\public" />
-      <recent name="D:\data\GitHub\Web-Learn-Mark\bookstore-react\src\alerts" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -92,7 +101,8 @@
       <workItem from="1647958514872" duration="3597000" />
       <workItem from="1647962492489" duration="1458000" />
       <workItem from="1648089489926" duration="12713000" />
-      <workItem from="1648185433826" duration="4641000" />
+      <workItem from="1648185433826" duration="4785000" />
+      <workItem from="1648190981094" duration="4295000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1647876192028</created>
@@ -121,6 +131,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -136,6 +157,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test1" />
     <MESSAGE value="homepage solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="homepage solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
