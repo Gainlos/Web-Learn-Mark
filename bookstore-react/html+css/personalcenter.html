@@ -2,9 +2,119 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>PersonalCenter</title>
+    <link rel="stylesheet" href="css/personalcenter.css">
+    <link rel="stylesheet" href="css/picnic/picnic.css">
+    <link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.css">
 </head>
 <body>
+    <div class="topmenu">
+        <div id="homepagebutton">
+            <a href="homepage.html"><h2>思源书屋</h2></a>
+        </div>
+        <div class="searchdiv">
+            <input id="searchline" value="Search books here" type="text">
+            <button id="searchbutton"> Search</button>
+        </div>
+        <div id="loginbutton">
+            <a href="loginpagepink.html"><h3>登录/注册</h3></a>
+        </div>
+        <div class="personalbutton" >
+            <a id="PersonalCenter" href="personalcenter.html">
+                <i class="fa fa-user-circle-o" ></i>
+            </a>
+        </div>
+        <div class="personalbutton" >
+            <a id="shoppingcenter" href="shoppingcenter.html">
+                <i class="fa fa-shopping-cart" ></i>
+            </a>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <h1 style="text-align: center">个人中心</h1>
+     <div class="personalcenterindex">
+         <div class="tabs three">
+             <input id='tab-1' type='radio' name='tabgroupB' checked />
+             <label class="pseudo button toggle" for="tab-1"style="width: 33%;background: lightgreen">订单管理</label>
+             <input id='tab-2' type='radio' name='tabgroupB'>
+             <label class="pseudo button toggle" for="tab-2"style="width: 33%;background: lightgreen">信息修改</label>
+             <input id='tab-3' type='radio' name='tabgroupB'>
+             <label class="pseudo button toggle" for="tab-3" style="width: 33%;background: lightgreen">密码修改</label>
+             <div class="row">
+                 <div>
+                     <table class="primary" style="width: 100%;position: relative">
+                             <thead>
+                                 <tr>
+                                     <th>订单编号</th>
+                                     <th>订单状态</th>
+                                     <th>商品数量</th>
+                                     <th>订单总价</th>
+                                     <th>操作</th>
+                                 </tr>
+                             </thead>
+                             <tbody>
+                                 <tr>
+                                     <td>1</td>
+                                     <td>已付款</td>
+                                     <td>13</td>
+                                     <td>￥750</td>
+                                     <td>
+                                         <button><i class="fa fa-shopping-cart"></i></button>
+                                         <button><i class="fa fa-eye"></i></button>
+                                         <button class="error"><i class="fa fa-close"></i></button>
+                                         <button><i class="fa fa-trash"></i></button>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td>1</td>
+                                     <td>已付款</td>
+                                     <td>13</td>
+                                     <td>￥750</td>
+                                     <td>
+                                         <button><i class="fa fa-shopping-cart"></i></button>
+                                         <button><i class="fa fa-eye"></i></button>
+                                         <button class="error"><i class="fa fa-close"></i></button>
+                                         <button><i class="fa fa-trash"></i></button>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td>1</td>
+                                     <td>已付款</td>
+                                     <td>13</td>
+                                     <td>￥750</td>
+                                     <td>
+                                         <button><i class="fa fa-shopping-cart"></i></button>
+                                         <button><i class="fa fa-eye"></i></button>
+                                         <button class="error"><i class="fa fa-close"></i></button>
+                                         <button><i class="fa fa-trash"></i></button>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td>1</td>
+                                     <td>未付款</td>
+                                     <td>13</td>
+                                     <td>￥750</td>
+                                     <td>
+                                         <button><i class="fa fa-shopping-cart"></i></button>
+                                         <button><i class="fa fa-eye"></i></button>
+                                         <button class="error"><i class="fa fa-close"></i></button>
+                                         <button><i class="fa fa-trash"></i></button>
+                                     </td>
+                                 </tr>
 
+                             </tbody>
+                     </table>
+                 </div>
+
+                 <div>
+                     <img src="img/sy02.jpg" height="400">
+                 </div>
+
+                 <div>
+                     <img src="img/sy03.jpg" height="400">
+                 </div>
+             </div>
+         </div>
+     </div>
 </body>
 </html>
