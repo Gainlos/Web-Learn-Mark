@@ -29,9 +29,10 @@
     margin-top:0;
     /*background: black;*/
     width: 40%;
-    height: 10%;
+    height: 55%;
     margin-left: 30%;
     position: relative;
+    clear: both;
 }
 #homepagebutton{
     float: left;
@@ -69,6 +70,67 @@
     margin-left: 5%;
     position: relative;
 }
-#personalcenter{
+#PersonalCenter{
 
+}
+.DivideDiv{
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 60%;
+    height: 60%;
+    margin-top: 10px;
+    background-color: white;
+    margin-left: 20%;
+    box-shadow:2px 2px 2px #555;
+    padding: 0;
+}
+.DownMenu{
+    bottom: 0;
+    height: 5%;
+    background-image: linear-gradient(lightpink,lightblue);
+    opacity: 0.5;
+}
+.ThemeLine{
+    top:0;
+    position: relative;
+    background-color: lightskyblue;
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+    margin-top: 0;
+    object-fit: cover;
+    overflow: hidden;
+}
+.ThemeInside{
+    float: left;
+    font-family: "Times New Roman";
+    top:20%;
+    position: relative;
+    width: 100%;
+}
+.ShowBook {
+    background-color: wheat;
+    width: 30%;
+    margin-left: 2.5%;
+    height: 80%;
+    border: 1px solid black;
+    margin-top: 1%;
+    float: left;
+    border-radius: 10px;
+}
+.ShowBookImg{
+    top: 0;
+    left: 0;
+    height: 88%;
+    width: 100%;
+    position: relative;
+    /*border: 1px solid black;*/
+    /*display: table-cell;*/
+    vertical-align: middle;
+}
+.ShowBookImg img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
 }

@@ -1,57 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b5a4948-5214-429a-af97-74315251fe91" name="变更" comment="test1">
-      <change afterPath="$PROJECT_DIR$/html+css/css/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/css/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/css/homepage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/css/loginpage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/html+css.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/sy01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/sy02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/sy03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/sy1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/sy2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/img/更多.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/loginpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/personalcenter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html+css/shoppingcenter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9b5a4948-5214-429a-af97-74315251fe91" name="变更" comment="homepage solve">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/css/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html+css/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html+css/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +91,8 @@
       <workItem from="1647873368804" duration="4439000" />
       <workItem from="1647958514872" duration="3597000" />
       <workItem from="1647962492489" duration="1458000" />
-      <workItem from="1648089489926" duration="10227000" />
+      <workItem from="1648089489926" duration="12713000" />
+      <workItem from="1648185433826" duration="4641000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1647876192028</created>
@@ -147,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647876192028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homepage solve">
+      <created>1648122801464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648122801464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homepage solve">
+      <created>1648122823588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648122823588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="homepage solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="homepage solve" />
   </component>
 </project>
